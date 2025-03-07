@@ -1,0 +1,31 @@
+#background{
+    background-color: rgba(182, 255, 255, 0.442);
+    width: 1920px;
+    height: 1080px;
+}
+#header{
+    background-color: honeydew;
+    height: 900px;
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+#model1{
+    background-color: rgba(34, 139, 34, 0.334);
+    color: darkgreen;
+    height: 40px;
+    width: 150px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#thing{
+    color: darkgreen;
+    size: 50px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height:;
+}
+
